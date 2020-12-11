@@ -12,4 +12,4 @@ I plan to continue using *Github* and repurposing my page for the assignment int
 
 Visit my [**Wordpress Page**](https://sites.psu.edu/arrowarchive/)
 
-**[Back to Main >>>](https://arrowarchive.github.io/The-Arrowarchive/index)**
+**[Back to Main >>>](https://arrowarchive.github.io/arrow-school/)**
