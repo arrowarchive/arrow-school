@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Welcome to arrow-school
 
-You can use the [editor on GitHub](https://github.com/arrowarchive/arrow-school/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to arrow-school! this is a smaller repository where I will put my class projects. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+* If you want to visit my art page, click **[here](https://arrowarchive.github.io/The-Arrowarchive/index)**
 
-### Markdown
+## DIGIT 100
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Web Development Reflection](digit100/reflection.md)
+* [Corpus Reflection](digit100/corpusreflection.md)
+* [*Frankenstein* Variorum Reflection](digit100/variorum.md)
+* [Game review: *Aurore*](digit100/aurore.md)
+* [Game review: *Inside the Void*](digit100/review2.md)
+* [Game Comparison: *Aurore* and *Inside the Void* (WIP)](digit100/finalcomparison.md)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arrowarchive/arrow-school/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**IMPORTANT NOTE:** I had to do a resume for the class, but due to containing private information, I will not share it here unless the assignment hasn't been graded yet.
