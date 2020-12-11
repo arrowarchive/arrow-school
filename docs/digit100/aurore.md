@@ -32,6 +32,6 @@ The game is designed as if it was meant to support an Xbox controller. The playe
 ## Final Thoughts
 *Aurore* is a visually breathtaking contemplative adventure game with an interesting concept and narrative that is unfortunately hindered by performance issues and flawed camera controls. I respect the developers for creating a narrative with such a small team, but if they want an official release, the controls and system performance need to be tested and tweaked before releasing to the general public.
 
-**[Game 2: *Inside the Void* >>>](digit100/review2.md)**
+**[Game 2: *Inside the Void* >>>](https://arrowarchive.github.io/arrow-school/digit100/review2.html)**
 
 **[Back to Main >>>](https://arrowarchive.github.io/arrow-school/)**
