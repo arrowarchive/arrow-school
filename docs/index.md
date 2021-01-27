@@ -13,4 +13,4 @@ Welcome to arrow-school! this is a smaller repository where I will put my class 
 * [Game review: *Inside the Void*](digit100/review2.md)
 * [Game Comparison: *Aurore* and *Inside the Void*](digit100/finalcomparison.md)
 
-**IMPORTANT NOTE:** I had to do a resume for the class, but due to containing private information, I will not share it here unless the assignment hasn't been graded yet.
+## DIGIT 210
