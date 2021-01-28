@@ -14,3 +14,4 @@ Welcome to arrow-school! this is a smaller repository where I will put my class 
 * [Game Comparison: *Aurore* and *Inside the Void*](digit100/finalcomparison.md)
 
 ## DIGIT 210
+* [Slime Recipe](https://raw.githubusercontent.com/arrowarchive/arrow-school/master/docs/xml/slime.xml)
