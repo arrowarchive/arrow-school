@@ -15,3 +15,4 @@ Welcome to arrow-school! this is a smaller repository where I will put my class 
 
 ## DIGIT 210
 * [Slime Recipe](https://raw.githubusercontent.com/arrowarchive/arrow-school/master/docs/xml/slime.xml)
+* [Recipe 1](https://raw.githubusercontent.com/arrowarchive/arrow-school/master/docs/xml/recipe.xml)
