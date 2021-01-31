@@ -17,3 +17,4 @@ Welcome to arrow-school! this is a smaller repository where I will put my class 
 * [Slime Recipe](https://raw.githubusercontent.com/arrowarchive/arrow-school/master/docs/xml/slime.xml)
 * [Recipe 1](https://raw.githubusercontent.com/arrowarchive/arrow-school/master/docs/xml/recipe.xml)
 * [Recipe 2](https://raw.githubusercontent.com/arrowarchive/arrow-school/master/docs/xml/recipe2.xml)
+* [Song Lyrics](https://raw.githubusercontent.com/arrowarchive/arrow-school/master/docs/xml/songlyric.xml)
