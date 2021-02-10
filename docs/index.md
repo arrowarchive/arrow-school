@@ -20,4 +20,4 @@ Welcome to arrow-school! this is a smaller repository where I will put my class 
 * [Song Lyrics](https://raw.githubusercontent.com/arrowarchive/arrow-school/master/docs/xml/songlyric.xml)
 * [Regex Exercise 1](https://raw.githubusercontent.com/arrowarchive/arrow-school/master/docs/xml/rachelmoviedata.xml)
 * [Sonnets](https://raw.githubusercontent.com/arrowarchive/arrow-school/master/docs/xml/rachelsonnets.xml)
-* [Sonnet Steps](docs/stepsonnets.md)
+* [Sonnet Steps](https://raw.githubusercontent.com/arrowarchive/arrow-school/master/docs/stepsonnets.md)
