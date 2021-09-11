@@ -2,11 +2,11 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Poem 6 (J 281: 1861/1935)</Title>
+                <title>Poem 6 (J 281: 1861/1935)</title> <!-- End tag didn't match with the start tag -->
                 <author>Emily Dickinson</author>
             </titleStmt>
             <publicationStmt>
-                <p>Fascicle 16: Dickinson's variants and published versions<p>
+                <p>Fascicle 16: Dickinson's variants and published versions</p> <!-- end tag needed a forward slash (/) -->
             </publicationStmt>
             <sourceDesc>
                 <msDesc>
@@ -16,29 +16,29 @@
                     </msIdentifier>
                 </msDesc>
                 <bibl>
-                    <ref target="http://www.cs.virginia.edu/~ajf2j/emily/">
+                    <ref target="http://www.cs.virginia.edu/~ajf2j/emily/"/> <!-- Needed to be a self-closing element -->
                 </bibl>
             </sourceDesc>
         </fileDesc>
-    </teiHeader>
+    <teiHeader/> <!-- forward slash needed to be at the end of the element -->
     <text>
         <front>
             <div type="references">
                 <listRef>
                     <ptr target="xml/1606variant.xml"/>
                     <ptr target="img/1606/fs1606a.jpg"/>
-                    <ptr target "img/1606/fs1606b.jpg"/>
+                    <ptr target="img/1606/fs1606b.jpg"/> <!-- Forgot the equal sign -->
                     <ptr target="img/1606/1606fha.jpg"/>
                     <ptr target="img/1606/1606fhb.jpg"/>
                     <ptr target="img/1606/1606fhMap.jpg"/>
-                    <ptr target="img/1606/fs1606Map.jpg">
-                </ListRef>
+                    <ptr target="img/1606/fs1606Map.jpg"/> <!-- missing a forward slash at the end -->
+                </listRef> <!-- spelling inconsistent with the starting tag; replace with a lowercase "l" -->
             </div>
             <div type="witness">
                 <listWit>
                     <witness xml:id="df16">
                         <bibl>
-                            <title>ORIGINAL POEMS<author></title>Emily Dickinson</author>
+                            <title>ORIGINAL POEMS<author></title>Emily Dickinson</author> <!-- Author start tag was -->
                         </bibl>
                     </witness>
                     <witness xml:id="fh>
