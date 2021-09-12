@@ -23,4 +23,4 @@ Welcome to arrow-school! this is a smaller repository where I will put my class 
 * [Sonnet Steps](https://raw.githubusercontent.com/arrowarchive/arrow-school/master/docs/stepsonnets.md)
 
 ## Digit 110 
-* XML Pre-test (TBA)
+* [XML Pre-test]((https://raw.githubusercontent.com/arrowarchive/arrow-school/master/docs/xml/110xmlpretest.xml)
