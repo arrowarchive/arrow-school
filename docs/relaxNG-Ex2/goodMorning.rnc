@@ -1,3 +1,26 @@
 datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
 
-
+start = element xml {source, \text}
+source = element source {title, altTitle, author, pubPlace, publisher, date, note}
+title = element title {level, text}
+level = attribute level { "book" | "inner" }
+altTitle = element altTitle {text}
+author = element author {text}
+pubPlace = element pubPlace {where, text}
+where = attribute where {"NYC"}
+publisher = element publisher {text}
+date = element date {when, text}
+when = attribute when {"1951", empty}
+note = element note {text}
+\text = element \text {poem+}
+poem = element poem {id, title, lineGroup+, empty}
+id = attribute id {"harlem" | "goodMorning"}
+lineGroup = element lineGroup {line+, empty}
+line = element line {n, mixed {(motif* | emph* | place+ | placeName) }}
+n = attribute n {xsd:integer}
+motif = element motif {text}
+emph = element emph {text}
+place = element place {mixed {(type? , ref*)}}
+ref = attribute ref { "NYC-Harlem" | "NYC-Man" | "PR" | "NYC-PennSt" | "Cuba" | "Ha" | "Ja" | "NYC" | "Ga" |  "Fla" | "La" | "NYC-Brook" | "NYC-Bronx"}
+type = attribute type {"trainStat"}
+placeName = element placeName {ref, text}
