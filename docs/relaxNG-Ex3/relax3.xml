@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-model href="relax3.rnc" type="application/relax-ng-compact-syntax"?>
+<xml>
+    <header>
+        <meta coder="RachelGerzevske" revisedWhen="09-01-2021"/>
+        <title>BALLAD OF BOOKER T.</title>
+        <author>Langston Hughes</author>
+        <date>June 1, 1941</date>
+        <stamp covers="line numbers 5, 6, 7, 9, 10"/>
+    </header>
+    <!-- I added a header and moved some title information and I specified what was covered by the stamp and signature. I hope this is enough. -->
+    <ballad>
+        <line num="1"><character> Booker T.</character>
+        </line>
+        <line num="2">Was a practical <rhyme with="land">man.</rhyme></line>
+        <line num="3">He said, Till the soil</line>
+        <line num="4">And learn from the <rhyme with="man">land</rhyme>.</line>
+        <line num="5">Let down your bu<stamp>cket</stamp></line>
+        <line num="6">Where you <stamp><rhyme with="afar">are.</rhyme></stamp></line>
+        <line num="7">Your fate is h<stamp>ere</stamp></line>
+        <line num="8">And not <rhyme with="are">afar.</rhyme></line>
+        <line num="9">To help yoursel<stamp>f</stamp></line>
+        <line num="10">And your fellow <rhyme with="hand">m<stamp>an</stamp>,</rhyme></line>
+        <line num="11">Train your head,</line>
+        <line num="12">Your heart, <underline>and your <rhyme with="man">hand.</rhyme></underline></line>
+        <line num="13">For smartness alone's</line>
+        <line num="14">Surely not <rhyme with="eat">meet—</rhyme></line>
+        <line num="15">If you haven't at the same time</line>
+        <line num="16">Got something to <rhyme with="meet">eat</rhyme>.</line>
+        <line num="17">Thus at <location>Tuskegee</location></line>
+        <line num="18">He built a <rhyme with="tool">school</rhyme></line>
+        <line num="19">With book-learning there</line>
+        <line num="20">And the workman's <rhyme with="school">tool.</rhyme></line>
+        <line num="21">He started out</line>
+        <line num="22">In a simple <rhyme with="yesterday, today">way</rhyme>—</line>
+        <line num="23">For <rhyme with="way, today">yesterday</rhyme></line>
+        <line num="24">Was <underline>not</underline>
+            <rhyme with="way, yesterday">today</rhyme>.</line>
+        <line num="25">Sometimes he had</line>
+        <line num="26">Compromise in his <rhyme with="walk">talk—</rhyme></line>
+        <line num="27">For a man must crawl</line>
+        <line num="28">Before he can <rhyme with="talk">walk—</rhyme></line>
+        <line num="29">And in <location>Alabama</location> in <year><rhyme with="alive"
+            >'85</rhyme></year></line>
+        <line num="30">A joker was lucky</line>
+        <line num="31">To be <rhyme with="85">alive.</rhyme></line>
+        <line num="32">But <character>Booker T.</character></line>
+        <line num="33">Was nobody's <rhyme with="tool">fool:</rhyme></line>
+        <line num="34">You may carve a dream</line>
+        <line num="35">With an humble <rhyme with="fool">tool.</rhyme></line>
+        <line num="36">The tallest tower</line>
+        <line num="37">Can tumble <rhyme with="ground">down</rhyme></line>
+        <line num="38">If it be not rooted</line>
+        <line num="39">In solid <rhyme with="down">ground.</rhyme></line>
+        <line num="40">So, being a far-seeing</line>
+        <line num="41">Practical <rhyme with="hand">man,</rhyme></line>
+        <line num="42">He said, Train your head,</line>
+        <line num="43">Your heart, <underline>and your <rhyme with="man">hand.</rhyme></underline></line>
+        <line num="44">Your fate is here</line>
+        <line num="45">And not <rhyme with="are">afar,</rhyme></line>
+        <line num="46">So let down your bucket</line>
+        <line num="47">Where you <rhyme with="afar">are.</rhyme></line>
+        <signature>LANGSTON HUGHES</signature>
+        <covered by="signature">Final Draft, <address>Hollow Hills Farm,</address></covered>
+            <location>Monterey, California,</location>
+            <date>June 1, 1941.</date>
+    </ballad>
+    <citation>Citation: Drafts of Langston Hughes's poem <title>"Ballad of Booker T.,"</title> <date>30 May–1 June
+            1941.</date>
+        <archive render="()">Langston Hughes Collection Manuscript Division,</archive>
+        <location building="LOC">Library of Congress,</location>
+        <district>Washington, D.C.</district></citation>
+</xml>
