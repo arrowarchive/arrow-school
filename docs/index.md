@@ -25,3 +25,4 @@ Welcome to arrow-school! this is a smaller repository where I will put my class 
 ## Digit 110 
 * [XML Pre-test](https://raw.githubusercontent.com/arrowarchive/arrow-school/master/docs/xml/110xmlpretest.xml)
 * [Relax NG Exercise 2](https://raw.githubusercontent.com/arrowarchive/arrow-school/master/docs/relaxNG-Ex2/goodMorning.xml)
+* [Relax NG Exercise 3](https://raw.githubusercontent.com/arrowarchive/arrow-school/master/docs/relaxNG-Ex3/relax3.xml)
